@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.env
+node_modules/
+dist/
+build/
+.coverage
+logs/
+sites/
+assets/.DS_Store
+*.pyc
+*.egg-info
+*.swp
+tags
+node_modules
+__pycache__
